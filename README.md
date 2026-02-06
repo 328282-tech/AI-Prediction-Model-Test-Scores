@@ -10,7 +10,7 @@ Through the use of pyhton code, the model was trained by inputting student data 
 
 Tools
 Languages, libraries, datasets, or AI models used.
-Thonny, Pandas, scikit, and Github were the tools used in this prject.
+Thonny, Pandas, scikit, and Github were the tools used in this project.
 
 Results - Output Screenshot
 What worked? (accuracy, output, example, or result)
