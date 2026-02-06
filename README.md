@@ -6,11 +6,11 @@ Within this project, I trained an AI model in order to determine student test sc
 
  Solution
 How does your project work? (High-level, no heavy jargon)
-Through the use of pyhton code, the model was trained by inputting student data with the aim of predicting an outcome.
+Through the use of python code, the model was trained by inputting student data with the aim of predicting an outcome.
 
 Tools
 Languages, libraries, datasets, or AI models used.
-Thonny, Pandas, scikit, and Github were the tools used in this project.
+Thonny, Pandas, Scikit, and Github were the tools used in this project.
 
 Results - Output Screenshot
 What worked? (accuracy, output, example, or result)
